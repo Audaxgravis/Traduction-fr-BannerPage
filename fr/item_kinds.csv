@@ -387,10 +387,6 @@ itm_leather_armor|Armure en cuir
 itm_leather_armor_pl|Armures en cuir 
 itm_fur_coat|Manteau de fourrure 
 itm_fur_coat_pl|Manteaux de fourrure 
-itm_coat|Manteau
-itm_coat_pl|Manteaux
-itm_leather_coat|Manteau de cuir 
-itm_leather_coat_pl|Manteaux de cuir
 itm_mail_coat|Cotte de mailles
 itm_mail_coat_pl|Cottes de mailles
 itm_long_mail_coat|Longue cotte de mailles
@@ -1234,44 +1230,103 @@ itm_tpe_normal_lance|Lance de tournoi
 itm_tpe_enhanced_lance|Lance de tournoi
 itm_tpe_normal_axe|Hache de tournoi
 itm_tpe_enhanced_axe|Grande hache de tournoi
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+itm_tpe_enhanced_mace|Masse de tournoi
+itm_book_prisoner_management|Notes de Ramun
+itm_book_inventory_management|Journal de Chamberlain
+itm_book_quaraan|Le coran (œuvre de fiction)
+itm_book_bible|La bible (œuvre de fiction)
+itm_book_pathfinding_reference|L'atlas de Calradia
+itm_book_trade_ledger|Registre de marchandise
+itm_wilddonkey_meat|Viande de yak
+itm_wolf_meat|Viande de loup
+itm_boar|Sanglier
+itm_wolf|Loup
+itm_coat|Cerf
+itm_deer|Biche
+itm_antler|Ramure
+itm_war_elephant|Éléphant de guerre
+itm_camel|Dromadaire
+itm_camel2|Dromadaire
+itm_camel_caravan|Dromadaire
+itm_bactrian_camel_a|Dromadaire Bactricien
+itm_bactrian_camel_b|Dromadaire Bactricien
+itm_sultans_horse|Palefroi de Sultant
+itm_sarranid_palfrey_bay|Palefroi de Pasha
+itm_sarranid_palfrey_black|Palefroi de Beg
+itm_sarranid_palfrey_brown|Palefroi de Agha
+itm_sarranid_charger_bay|Palefroi bardé de lattes
+itm_sarranid_charger_black|Palefroi bardé de lattes
+itm_warhorse_sarranid|Palefroi bardé de lattes
+itm_sarranid_warhorse_bay|Cheval carapaçonné
+itm_sarranid_warhorse_black|Cheval carapaçonné
+itm_sarranid_warhorse_grey|Cheval carapaçonné
+itm_dk_horned_charger|Palefroi de chevalier noir
+itm_dk_charger|Palefroi de chevalier noir
+itm_desert_horse_dapple_grey_b|Cheval du désert
+itm_arabian_horse_a|Cheval du désert
+itm_desert_horse_black|Cheval du désert
+itm_desert_horse_dapple_grey|Cheval du désert
+itm_desert_horse_bandit_dapple_grey|Cheval du désert
+itm_desert_horse_bandit_black|Cheval du désert
+itm_desert_horse_bandit_bay|Cheval du désert
+itm_rouncey_grey|Cheval fougueux
+itm_rouncey_silver_black|Cheval fougueux
+itm_rouncey_dapple_grey|Cheval fougueux
+itm_rouncey_black_pinto|Cheval fougueux
+itm_rouncey_black_leather|Cheval fougueux
+itm_rouncey_light_bay|Cheval fougueux
+itm_rouncey_silver_brown|Cheval fougueux
+itm_rouncey_blue_dun|Cheval fougueux
+itm_rouncey_bay|Cheval fougueux
+itm_rouncey_black|Cheval fougueux
+itm_rouncey_dun|Cheval fougueux
+itm_saddle_horse|Cheval fougueux
+itm_hobby_black|Cheval d'équitation
+itm_hobby_grey|Cheval d'équitation
+itm_courser_chestnut|Coursier
+itm_courser|Coursier
+itm_courser_grey_fleabitten|Coursier
+itm_courser_blue_dun|Coursier
+itm_courser_bay|Coursier
+itm_courser_bay_dark|Coursier
+itm_courser_black|Coursier
+itm_courser_brown|Coursier
+itm_courser_flaxen|Coursier
+itm_steppe_horse2_bay|Cheval des steppes
+itm_steppe_horse2_pinto|Cheval des steppes
+itm_steppe_horse2_greybrownspotted|Cheval des steppes
+itm_steppe_horse2_dun|Cheval des steppes
+itm_steppe_horse2_brownblanket|Cheval des steppes
+itm_steppe_horse1_chestnut|Cheval des steppes
+itm_ssteppe_horse1_blueroan|Cheval des steppes
+itm_steppe_horse1_black|Cheval des steppes
+itm_steppe_horse2_bay|Cheval des steppes
+itm_steppe_horse1_dapple_grey|Cheval des steppes
+itm_steppe_horse2_grulla|Cheval des steppes
+itm_steppe_horse|Cheval des steppes
+itm_tpe_normal_knight_horse_red|Cheval de tournoi
+itm_tpe_normal_knight_horse_blue|Cheval de tournoi
+itm_tpe_normal_knight_horse_green|Cheval de tournoi
+itm_tpe_normal_knight_horse_yellow|Cheval de tournoi
+itm_arabian_bay|Cheval Arabe
+itm_arabian_horse_b|Cheval Arabe
+itm_arabian_bay_dark|Cheval Arabe
+itm_arabian_black|Cheval Arabe
+itm_arabian_palfrey_black|Cheval Arabe
+itm_arabian_palfrey_white|Cheval Arabe
+itm_arabian_bandit_leader|Cheval Arabe
+itm_donkey_light_grey|Âne
+itm_donkey_dark_grey|Âne
+itm_pack_horse_black|Cheval de somme
+itm_pack_horse_bay|Cheval de somme
+itm_sumpter_horse|Cheval de somme
+itm_highland_pony_flaxen|Poney des montagnes
+itm_highland_pony_dun|Poneys des montagnes
+itm_highland_pony_sorrel|Poneys des montagnes
+itm_highland_pony_blac|Poneys des montagnes
+itm_highland_pony_brown|Poneys des montagnes
+itm_highland_pony_grey|Poneys des montagnes
+|Poneys des montagnes
 |
 |
 |
