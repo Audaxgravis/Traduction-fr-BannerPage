@@ -923,7 +923,7 @@ qstr_You_were_born_the_{r|Vous êtes {reg3?la fille:le fils} de marchands itiné
 qstr_As_a_child_your_fami|Quand vous étiez enfant, votre famille survivait grâce à la maigre solde que touchait votre père comme garde d'un seigneur local. Ce n'était pas une existence facile et vous étiez trop pauvre pour recevoir une instruction décente. Vous avez principalement appris à vous défendre vous-même dans les rues, avec ou sans arme.
 qstr_You_were_the_{reg3?d|Vous étiez {reg3?la fille:le fils} d'une famille vivant dans les bois, faisant ce qu'il fallait pour joindre les deux bouts : chasser, couper le bois, fabriquer des arcs et même un peu de braconnage quand les temps devenaient durs. L'hiver n'était pas la meilleure période pour votre famille, le froid faisait mourir aussi bien les animaux que les gens. Mais vous avez survécu, tandis que vos frères et soeurs n'ont pas tous eu votre chance.
 qstr_You_were_a_child_of_|Vous êtes enfant de la steppe, {reg3?née:né} dans une tribu de nomades habitant d'immenses campements dans les plaines arides, au gré de leurs errances. Comme les autres membres de la tribu, votre famille attachait une importance capitale aux chevaux et vous avez appris à les monter avant de savoir marcher.
-qstr_As_the_{reg3?daughte|En tant que {reg3?fille:fils} d'un voleur, l'éducation qui vous a été prodiguée ne fut pas vraiment "scolaire". Vous avez plutôt passé votre temps dans les rues, d'abord mendiant et quémandant, puis vivant de menus larcins, apprenant à soulager les bourses des riches bourgeois et à crocheter les serrures. Voilà qui résume assez bien toute votre enfance. Ces longues années vous ont néanmoins rendu {reg3?dégourdie:dégourdi} et à l'affût des secrets enfouis dans les villes et les arrière-cours.
+"qstr_As_the_{reg3?daughte|En tant que {reg3?fille:fils} d'un voleur, l'éducation qui vous a été prodiguée ne fut pas vraiment ""scolaire"". Vous avez plutôt passé votre temps dans les rues, d'abord mendiant et quémandant, puis vivant de menus larcins, apprenant à soulager les bourses des riches bourgeois et à crocheter les serrures. Voilà qui résume assez bien toute votre enfance. Ces longues années vous ont néanmoins rendu {reg3?dégourdie:dégourdi} et à l'affût des secrets enfouis dans les villes et les arrière-cours."
 qstr__You_were_born_years| C'est sur des terres lointaines que vous avez vu le jour, votre père était {s2}. {s3}
 qstr_As_a_{reg3?girl:boy}|{reg3?Adolescente:Adolescent}, on vous envoya vivre à la cour d'un noble local. Là bas, vous avez d'abord appris l'humilité puisqu'il vous fallait apprendre à respecter les gens de la maison. Mais, grâce aux parties d'échecs, aux commérages, aux récits épiques et courtois, vous avez rapidement commencé à comprendre le fonctionnement du monde des adultes, fait de conflits et de compétitions. Vous avez aussi beaucoup appris des jeux violents des autres enfants qui se combattaient avec des bâtons en bois imitant les épées de leurs ainés.
 qstr_As_a_{reg3?girl:boy}_|{reg3?Adolescente:Adolescent}, vous êtes {reg3?devenue l'apprentie:devenu l'apprenti} d'un artisan local. Après plusieurs années de dur labeur et d'étude auprès de votre nouveau maître, il vous a {reg3?promue:promu} compagnon et vous a {reg3?embauchée:embauché} comme artisan à plein temps pour aussi longtemps qu'il vous plaira.
@@ -1265,7 +1265,7 @@ qstr_No_companions_in_par|Pas de compagnon dans le groupe !
 qstr_{reg3?daughter:son}|{reg3?fille:fils}
 qstr_You_were_the_{reg3?d|Vous étiez {reg3?la fille:le fils} d'une famille vivant dans les bois, faisant ce qu'il fallait pour joindre les deux bouts : chasser, couper le bois, fabriquer des arcs et même un peu de braconnage quand les temps devenaient durs. L'hiver n'était pas la meilleure période pour votre famille, le froid faisait mourir aussi bien les animaux que les gens. Mais vous avez survécu, tandis que vos frères et soeurs n'ont pas tous eu votre chance.
 qstr_You_were_a_child_of_th|Vous êtes enfant de la steppe, {reg3?née:né} dans une tribu de nomades habitant d'immenses campements dans les plaines arides, au gré de leurs errances. Comme les autres membres de la tribu, votre famille attachait une importance capitale aux chevaux et vous avez appris à les monter avant de savoir marcher.
-qstr_As_the_{reg3?daughter:|En tant que {reg3?fille:fils} d'un voleur, l'éducation qui vous a été prodiguée ne fut pas vraiment "scolaire". Vous avez plutôt passé votre temps dans les rues, d'abord mendiant et quémandant, puis vivant de menus larcins, apprenant à soulager les bourses des riches bourgeois et à crocheter les serrures. Voilà qui résume assez bien toute votre enfance. Ces longues années vous ont néanmoins rendu {reg3?dégourdie:dégourdi} et à l'affût des secrets enfouis dans les villes et les arrière-cours.
+"qstr_As_the_{reg3?daughter:|En tant que {reg3?fille:fils} d'un voleur, l'éducation qui vous a été prodiguée ne fut pas vraiment ""scolaire"". Vous avez plutôt passé votre temps dans les rues, d'abord mendiant et quémandant, puis vivant de menus larcins, apprenant à soulager les bourses des riches bourgeois et à crocheter les serrures. Voilà qui résume assez bien toute votre enfance. Ces longues années vous ont néanmoins rendu {reg3?dégourdie:dégourdi} et à l'affût des secrets enfouis dans les villes et les arrière-cours."
 qstr_As_a_{reg3?girl:boy}|{reg3?Adolescente:Adolescent}, on vous envoya vivre à la cour d'un noble de la région. Là-bas vos premières leçons de vie vous enseignèrent l'humilité, en servant les seigneurs et les dames du domaine. Mais par le biais de leurs parties d'échec, leurs commérages et même le récit de leurs exploits et de leurs amours courtois, vous avez rapidement commencé à comprendre le monde des adultes, fait de conflits et de compétitions. Vous avez également découvert la brutalité des jeux auxquels s'adonnaient les autres enfants, consistant à se battre avec des bâtons à l'image des épées de leurs ainés.
 qstr_As_a_{reg3?girl:boy}_|{reg3?Adolescente:Adolescent}, vous êtes {reg3?devenue l'apprentie:devenu l'apprenti} d'un artisan local. Après plusieurs années de dur labeur et d'étude auprès de votre nouveau maître, il vous a {reg3?promue:promu} compagnon et vous a {reg3?embauchée:embauché} comme artisan à plein temps pour aussi longtemps qu'il vous plaira.
 qstr_As_a_{reg3?girl:boy}_g|{reg3?Adolescente:Adolescent}, vous êtes {reg3?devenue l'apprentie:devenu l'apprenti} d'un riche marchand, apprenant le métier au fil des ans, de boutiques en caravanes ambulantes. Vous avez rapidement maîtrisé l'art d'acheter à bas prix pour revendre au prix fort, tout en laissant croire à vos clients qu'ils avaient fait une bonne affaire.
@@ -1757,3 +1757,71 @@ qstr_{s6}_Our_{reg4?town:v|{s6} Notre {reg4?ville:village} et ses environs appar
 qstr_{s3}_and_{s5}|{s3} et {s5}
 qstr_{reg20?We_mostly_pro|{reg20? Ici nous produisons surtout: {s5}:Nous ne produisons pas grand-chose ces temps-ci}. Si vous voulez en apprendre davantage, vous devriez vous adresser {reg4?au maître de Guilde:à l'ancien du village}. Il est sans doute dans le coin.
 qstr_You_won_t_regret_thi|Vous ne le regretterez pas
+qstr_Build_fortifications|Construire un camp et attendre ici
+qstr_Readable_Books_{reg3|Livres lisibles({reg3}/{reg4})
+qstr_Reference_Books_{reg|Références({reg3}/{reg4})
+qstr_Export_book|Exporter un livre
+qstr_Import_books|Importer un livre
+:
+qstr_{s1}^Holder:_{s2}|{s1}^Propriétaire: {s2}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|

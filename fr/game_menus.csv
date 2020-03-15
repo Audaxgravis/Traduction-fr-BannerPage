@@ -586,8 +586,8 @@ menu_notification_rebels_switched_to_faction|Triomphe de la rébellion !^^ Votre
 menu_notification_player_should_consult|Votre ministre vous fait savoir que des problèmes couvent dans le royaume, à défaut d'être résolus, ceux-ci risquent de saper votre autorité. Vous devriez le consulter au plus vite.
 menu_notification_player_feast_in_progress|Banquet en préparation^^Votre épouse a entamé les préparatifs d'un banquet dans la salle d'honneur de {s11}.
 "menu_notification_lady_requests_visit|Une vieille femme s'approche de votre groupe et remet à l'un de vos hommes un petit pli cacheté à la cire. Il vous est adressé. ^Lorsque vous rompez le sceau, vous constatez qu'il vient de {s15}. ^""J'eus doux délice de notre dernière accointance, {s14}. Si vous avez cœur à me donner rencontre, je me languis à {s10}. {s12}"
-mno_continue_visit_yes| Informer sa maîtresse que vous viendrez bientôt
-mno_continue_visit_no| Informer sa maîtresse que vous êtes indisposé
+mno_continue| Informer sa maîtresse que vous viendrez bientôt
+mno_continue| Informer sa maîtresse que vous êtes indisposé
 menu_garden|{s12}
 mno_nurse_1|Suivre la dame de compagnie
 mno_nurse_2|Attendre près de la source
@@ -806,7 +806,7 @@ mno_export_import_prev|Page pr�c�dente
 mno_next_page|Page suivante
 mno_prev_page|Page pr�c�dente
 mno_show_personal_affairs_report|Regarder dans son agenda
-menu_personal_affairs_report|Vérifiez que personne ne vous observe�
+menu_personal_affairs_report|Vérifiez que personne ne vous observe..
 mno_view_bank_report|Feuille des investissements
 mno_view_relations_report|Relations avec les factions
 mno_companion_relations|Personnage et compagnons
@@ -837,22 +837,22 @@ mno_show_reference_materials|Références
 mno_action_view_upgrade_trees|Arbre des troupes
 menu_reference_materials|Références:
 mno_action_view_all_items|Liste des objets
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+mno_action_walk_around|Se promener et inspecter les troupes
+mno_camp_wait_here|Attendre ici
+mno_view_npc_mission_report|Compagnons en mission
+mno_jump_more_actions|Prendre une décision II
+mno_action_view_trade_ledger_denied|Commencer le grand livre commercial et �valuer les prix locaux au marché de la ville
+mno_reset_color|Changer la couleur de votre royaume
+menu_more_actions|Menu de décision II:^Prendre une décision:
+mno_camp_export_import|Importer/exporter un personnage
+mno_dplmc_change_shopping_list_of_food|Configurer la liste d'achats
+menu_dplmc_trade_auto_buy_food_begin|Vous allez automatiquement acheter la nourriture que vous mettrez dans votre liste. voulez-voous continuer?
+mno_tc_enable_cheat_mode|Activer le menu de triche
+mno_tc_disable_cheat_mode|Désactiver le menu de triche
+mno_tc_set_invasion|Décider de quand les chevaliers noirs attaquerons
+mno_action_no_random_events|Désactiver les évenements aléatoires
+mno_action_no_random_events|Activer les évenements aléatoires
+mno_camp_manage_bookcase|Gérer la bibliothèque de livres
 |
 |
 |
